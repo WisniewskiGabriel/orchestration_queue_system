@@ -1,0 +1,5 @@
+Flask>=3.0.0
+Flask-SQLAlchemy==3.0.3
+flask-marshmallow==0.14.0
+marshmallow-sqlalchemy==0.24.1
+psycopg2-binary>=2.9.3
